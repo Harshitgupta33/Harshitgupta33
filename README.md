@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Harshitgupta33
 - 👀 I’m interested in Visual Design , Aesthetics , web development . 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning AI
+
+
 
 <!---
 Harshitgupta33/Harshitgupta33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
